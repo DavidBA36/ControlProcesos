@@ -1,0 +1,366 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 395
+  ClientWidth = 619
+  Position = OwnerFormCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnClose = FormClose
+  OnDestroy = FormDestroy
+  OnResize = FormResize
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object GridPanelLayout1: TGridPanelLayout
+    Align = Client
+    Margins.Left = 1.000000000000000000
+    Size.Width = 618.000000000000000000
+    Size.Height = 352.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    ColumnCollection = <
+      item
+        SizeStyle = Absolute
+        Value = 80.000000000000000000
+      end
+      item
+        SizeStyle = Absolute
+        Value = 150.000000000000000000
+      end
+      item
+        SizeStyle = Absolute
+        Value = 100.000000000000000000
+      end
+      item
+        Value = 100.000000000000000000
+      end
+      item
+        SizeStyle = Absolute
+        Value = 70.000000000000000000
+      end
+      item
+        SizeStyle = Absolute
+        Value = 80.000000000000000000
+      end>
+    ControlCollection = <
+      item
+        Column = 0
+        ColumnSpan = 6
+        Control = Label1
+        Row = 0
+      end
+      item
+        Column = 0
+        Control = Label3
+        Row = 1
+      end
+      item
+        Column = 1
+        Control = ComboBox1
+        Row = 1
+      end
+      item
+        Column = 2
+        Control = ComboBox2
+        Row = 1
+      end
+      item
+        Column = 5
+        Control = ComboBox3
+        Row = 1
+      end
+      item
+        Column = 4
+        Control = Label2
+        Row = 1
+      end
+      item
+        Column = 3
+        Control = ComboEdit1
+        Row = 1
+      end
+      item
+        Column = 0
+        Control = Button1
+        Row = 3
+      end
+      item
+        Column = 4
+        Control = Button2
+        Row = 3
+      end
+      item
+        Column = 5
+        Control = Button3
+        Row = 3
+      end
+      item
+        Column = 0
+        ColumnSpan = 6
+        Control = Grid1
+        Row = 4
+      end>
+    RowCollection = <
+      item
+        SizeStyle = Absolute
+        Value = 25.000000000000000000
+      end
+      item
+        SizeStyle = Absolute
+        Value = 32.000000000000000000
+      end
+      item
+        SizeStyle = Absolute
+        Value = 25.000000000000000000
+      end
+      item
+        SizeStyle = Absolute
+        Value = 32.000000000000000000
+      end
+      item
+        Value = 100.000000000000000000
+      end>
+    object Label1: TLabel
+      Align = Client
+      Size.Width = 618.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Agrega entradas que coincidan con las c siguientes condiciones'
+      TabOrder = 2
+    end
+    object Label3: TLabel
+      Align = Client
+      Size.Width = 80.000000000000000000
+      Size.Height = 32.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Si el Campo'
+      TabOrder = 1
+    end
+    object ComboBox1: TComboBox
+      Align = Client
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Size.Width = 144.000000000000000000
+      Size.Height = 26.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 5
+    end
+    object ComboBox2: TComboBox
+      Align = Client
+      Items.Strings = (
+        'igual a '
+        'distinto de'
+        'menor que'
+        'mayor que'
+        'empieza por'
+        'termina con'
+        'contiene'
+        'excluye')
+      ItemIndex = 4
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Size.Width = 94.000000000000000000
+      Size.Height = 26.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 4
+    end
+    object ComboBox3: TComboBox
+      Align = Client
+      Items.Strings = (
+        'Incluir'
+        'Excluir')
+      ItemIndex = 0
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Size.Width = 74.000000000000000000
+      Size.Height = 26.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 3
+    end
+    object Label2: TLabel
+      Align = Client
+      Size.Width = 70.000000000000000000
+      Size.Height = 32.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'Entonces'
+      TabOrder = 0
+    end
+    object ComboEdit1: TComboEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      Align = Client
+      TabOrder = 6
+      ItemHeight = 19.000000000000000000
+      ItemIndex = -1
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Size.Width = 132.000000000000000000
+      Size.Height = 26.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object Button1: TButton
+      Align = Client
+      Margins.Left = 2.000000000000000000
+      Margins.Top = 2.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 2.000000000000000000
+      Size.Width = 75.000000000000000000
+      Size.Height = 28.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 9
+      Text = 'Resetear'
+    end
+    object Button2: TButton
+      Align = Client
+      Margins.Left = 2.000000000000000000
+      Margins.Top = 2.000000000000000000
+      Margins.Right = 2.000000000000000000
+      Margins.Bottom = 2.000000000000000000
+      Size.Width = 66.000000000000000000
+      Size.Height = 28.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 8
+      Text = 'Agregar'
+    end
+    object Button3: TButton
+      Align = Client
+      Margins.Left = 2.000000000000000000
+      Margins.Top = 2.000000000000000000
+      Margins.Right = 2.000000000000000000
+      Margins.Bottom = 2.000000000000000000
+      Size.Width = 76.000000000000000000
+      Size.Height = 28.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 7
+      Text = 'Eliminar'
+    end
+    object Grid1: TGrid
+      Align = Client
+      CanFocus = True
+      ClipChildren = True
+      Size.Width = 618.000000000000000000
+      Size.Height = 238.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 10
+      Viewport.Width = 614.000000000000000000
+      Viewport.Height = 213.000000000000000000
+    end
+  end
+  object Panel1: TPanel
+    Align = Bottom
+    Position.Y = 352.000000000000000000
+    Size.Width = 619.000000000000000000
+    Size.Height = 43.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 11
+    object Button4: TButton
+      Align = Right
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Position.X = 382.000000000000000000
+      Position.Y = 3.000000000000000000
+      Size.Width = 114.000000000000000000
+      Size.Height = 37.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 7
+      Text = 'Aceptar'
+    end
+    object Button5: TButton
+      Align = Right
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Position.X = 502.000000000000000000
+      Position.Y = 3.000000000000000000
+      Size.Width = 114.000000000000000000
+      Size.Height = 37.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 6
+      Text = 'Cancelar'
+    end
+  end
+  object FDMaster: TFDQuery
+    Connection = Datos.FDConnection1
+    Transaction = FDTransaction1
+    UpdateTransaction = FDTransaction1
+    UpdateOptions.AssignedValues = [uvGeneratorName]
+    UpdateOptions.GeneratorName = 'GEN_INT$FILTROS_DEFINICION_ID'
+    UpdateOptions.UpdateTableName = 'INT$FILTROS_DEFINICION'
+    UpdateOptions.KeyFields = 'CLAVE'
+    UpdateOptions.AutoIncFields = 'CLAVE'
+    UpdateObject = FDUpdateSQL1
+    SQL.Strings = (
+      'SELECT * FROM INT$FILTROS_DEFINICION '
+      'WHERE CLAVE=:CLAVE')
+    Left = 144
+    Top = 248
+    ParamData = <
+      item
+        Name = 'CLAVE'
+        DataType = ftInteger
+        ParamType = ptInput
+        Value = Null
+      end>
+  end
+  object BindSourceDB1: TBindSourceDB
+    DataSet = FDMaster
+    ScopeMappings = <>
+    Left = 248
+    Top = 264
+  end
+  object BindingsList1: TBindingsList
+    Methods = <>
+    OutputConverters = <>
+    Left = 44
+    Top = 213
+  end
+  object FDTransaction1: TFDTransaction
+    Connection = Datos.FDConnection1
+    Left = 345
+    Top = 264
+  end
+  object FDUpdateSQL1: TFDUpdateSQL
+    Connection = Datos.FDConnection1
+    InsertSQL.Strings = (
+      'INSERT INTO INT$FILTROS_DEFINICION'
+      '(CLAVE, COLUMNA, RELACION, VALOR, VALOR_INT, '
+      '  ACCION)'
+      
+        'VALUES (:NEW_CLAVE, :NEW_COLUMNA, :NEW_RELACION, :NEW_VALOR, :NE' +
+        'W_VALOR_INT, '
+      '  :NEW_ACCION)'
+      'RETURNING CLAVE, COLUMNA, RELACION, VALOR, VALOR_INT, ACCION')
+    ModifySQL.Strings = (
+      'UPDATE INT$FILTROS_DEFINICION'
+      
+        'SET CLAVE = :NEW_CLAVE, COLUMNA = :NEW_COLUMNA, RELACION = :NEW_' +
+        'RELACION, '
+      
+        '  VALOR = :NEW_VALOR, VALOR_INT = :NEW_VALOR_INT, ACCION = :NEW_' +
+        'ACCION'
+      'WHERE CLAVE = :OLD_CLAVE'
+      'RETURNING CLAVE, COLUMNA, RELACION, VALOR, VALOR_INT, ACCION')
+    DeleteSQL.Strings = (
+      'DELETE FROM INT$FILTROS_DEFINICION'
+      'WHERE CLAVE = :OLD_CLAVE')
+    FetchRowSQL.Strings = (
+      'SELECT CLAVE, COLUMNA, RELACION, VALOR, VALOR_INT, ACCION'
+      'FROM INT$FILTROS_DEFINICION'
+      'WHERE CLAVE = :OLD_CLAVE')
+    Left = 441
+    Top = 272
+  end
+end

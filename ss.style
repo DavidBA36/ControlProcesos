@@ -1,0 +1,993 @@
+object TStyleContainer
+  object TImage
+    StyleName = 'FondoBlanco.jpg'
+    MultiResBitmap.LoadSize = 2
+    MultiResBitmap = <
+      item
+        Width = 32
+        Height = 32
+        PNG = {
+          89504E470D0A1A0A0000000D4948445200000020000000200806000000737A7A
+          F4000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+          0056494441545847EDD1310A00210C44D1C4DB7B0A7B8F67BB60146C7685456C
+          92E64F33A4087910CDA59ABCA37DB5A5D5A779CFE5BE36B32FC039FA4403E6FD
+          50C0CF23FD0200000000000000000000000000008201220320A01AF1D007B6D6
+          0000000049454E44AE426082}
+      end>
+    Align = Center
+    Visible = False
+  end
+  object TImage
+    StyleName = 'Seleccion2.png'
+    MultiResBitmap.LoadSize = 2
+    MultiResBitmap = <
+      item
+        Width = 64
+        Height = 64
+        PNG = {
+          89504E470D0A1A0A0000000D4948445200000040000000400806000000AA6971
+          DE000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+          00A649444154785EEDDA310AC2401445D13F83A408168259823B1197626799C2
+          C6CA65A5CA7624456A8BC1146F0D7EC8BB07860753DE76A6DCE7F68A24E7EF12
+          E37588A1D6B7AEFEAE6A6D11406B8B005A5B04D0DA2280D61601B4B608A0B545
+          00AD2D02686D11406B8B005A5B04D0DA2280D61601B4B608A0B5651FA03CA74F
+          DAF3F8B1ADF1B85DE294F83C5E9696F73FE0B09D7E3B5D620000000000000000
+          00000000762FE2074C3E104011AE7A160000000049454E44AE426082}
+      end>
+    Align = Center
+    Visible = False
+  end
+  object TImage
+    StyleName = 'FondoItem.jpg'
+    MultiResBitmap.LoadSize = 2
+    MultiResBitmap = <
+      item
+        Width = 300
+        Height = 72
+        PNG = {
+          89504E470D0A1A0A0000000D494844520000012C0000004808060000004C6FC8
+          8D000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+          03B949444154785EEDDD5B4FE3400C86E1BAFCFFBF0794722CB49C0FE57C054B
+          A55EB0B0CCECE04C6C67DE478AD4AB45EBD85FDC2402198D46EF1F078C88AC4E
+          C1CFDEDF393D1AB9FA2216797E7E4E4EC4783C5E7F420DB94062E074A85F5D7D
+          5F50E5F5F535F913B9C2D795BB20507F78D6F742234F4F4FC98960C3AA2B1748
+          D41F9EF5BE61BDBCBC247FE2DBDBDBFA136AD8D8D8587FFA37EA0FCFDC6D58DC
+          03B045FD75A85F5DBD6F58B9C0E21E4A5DDCC3AA8BC0AAABEFFA66030B75E54E
+          38819596AB1F815557EF1BD6E3E323135151EB03936B6802C556B4FAF3080A40
+          18F2F0F0C08695C00680C886D6BF04164C71414009B9BFBF27B02A6220616970
+          1B1681054B043A4AC872B924B012B403D5FA6B090492AD5CFDA3F5274F093356
+          27547300E88EDCDDDD353D556C0069B9D0A57EB65AAB7FF381051D02CB567381
+          757B7BCB860518A1FFCA341F58D061E0D027B9B9B961C302826AEE2B61EB8105
+          1D021F7D92EBEB6B362CC088B6FF5A7B75A6F9C0421A810E4FE4EAEA2A746031
+          50F08CFE4C2B7DCF8FC01A385EFC4464DF02EBF2F2D275603150888CFEED96FB
+          C0820E0383C8BE6D581717176C584025F46FB7DC0716EA62A0E0D9B70DEBFCFC
+          3CF486C5AF704923906C51FF6E115803C7C0C0B3D2FE94B3B333D3896F7DA078
+          EDC037EAEF0BBF7114C0AFAD2EB8A9A36B727A7AAAFA57B9022132FA37167560
+          A12E060A9EF5DD9FB2582CB8878566D17FB1980716D2182844D675FFCA7C3E37
+          BD8755E3C65C240492AD5CFD5BEFCF9CBEFB57FD94F0F31381DF1C00F0BFE4E4
+          E4C474C38A2E17BA6C50B6E84FDD52E0AD7EEAC0421A81658BC01A58601D1F1F
+          27FF470C1C2CD17FF82C1B58D061E01099BB0D6B369BB16161B0E8DF61C90616
+          74181844E66EC33A3A3A62C3825BDAFE6BFDD599A1CDAF3AB06808021D7E3517
+          5880A5D62F08BCE7F7B7E6038B864064CD05D6E1E1211B16CC70414009393838
+          683AB0181844D6DC86D57A60C116170C9490FDFD7D022B81818267CD6D587B7B
+          7B7C258419EA8F12041603632A577FDEF3A33F3F731F58DA86E584D7457DD127
+          FE2E2150D1EA829B3A5046767777A91A7EC406054F643A9D0E3AB0183858A2FF
+          BA35F8C0820E03074F646767870D0B30427F9691C964E23AB038A1B672F5E7C6
+          711AFDDB2D9E120208C3FD8685BAD800E0D9D7FE94EDED6D022B3002C716F5EF
+          97796071C27572F790C663BEF5D7C43D3C9D5C7F7EADAF6C6E6E52F1C04A4FF8
+          575C3074A89F4E69E0CBD6D61681159836B0A0437D754ABF011058C1B141D9E2
+          2BB70E1B56637281C4065017F5D529BE87F571507100018C467F00991F0FE01C
+          886FB90000000049454E44AE426082}
+      end>
+    Align = Center
+    Visible = False
+  end
+  object TImage
+    StyleName = 'header.png'
+    MultiResBitmap.LoadSize = 2
+    MultiResBitmap = <
+      item
+        Width = 32
+        Height = 32
+        PNG = {
+          89504E470D0A1A0A0000000D4948445200000020000000200806000000737A7A
+          F4000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+          0036494441545847EDCE310100200CC4C007FF86B08299B2D443072E4BD65B75
+          4F65B0DD1F0B00000000000000000000000000E07740F20090DB03D1B5C28801
+          0000000049454E44AE426082}
+      end>
+    Align = Center
+    Visible = False
+  end
+  object TLayout
+    StyleName = 'SpeedButtonstyle'
+    Align = Center
+    Size.Width = 72.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 4
+    FixedHeight = 48
+    object TButtonStyleObject
+      StyleName = 'background'
+      Align = Contents
+      Margins.Left = -5.000000000000000000
+      Margins.Right = -5.000000000000000000
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 82.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      HotLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 95.000000000000000000
+          SourceRect.Top = 197.000000000000000000
+          SourceRect.Right = 143.000000000000000000
+          SourceRect.Bottom = 245.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 137.000000000000000000
+          SourceRect.Top = 298.000000000000000000
+          SourceRect.Right = 209.000000000000000000
+          SourceRect.Bottom = 370.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 184.000000000000000000
+          SourceRect.Top = 390.000000000000000000
+          SourceRect.Right = 280.000000000000000000
+          SourceRect.Bottom = 486.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 276.000000000000000000
+          SourceRect.Top = 585.000000000000000000
+          SourceRect.Right = 420.000000000000000000
+          SourceRect.Bottom = 729.000000000000000000
+        end>
+      FocusedLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 95.000000000000000000
+          SourceRect.Top = 197.000000000000000000
+          SourceRect.Right = 143.000000000000000000
+          SourceRect.Bottom = 245.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 137.000000000000000000
+          SourceRect.Top = 298.000000000000000000
+          SourceRect.Right = 209.000000000000000000
+          SourceRect.Bottom = 370.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 184.000000000000000000
+          SourceRect.Top = 390.000000000000000000
+          SourceRect.Right = 280.000000000000000000
+          SourceRect.Bottom = 486.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 277.000000000000000000
+          SourceRect.Top = 585.000000000000000000
+          SourceRect.Right = 421.000000000000000000
+          SourceRect.Bottom = 729.000000000000000000
+        end>
+      NormalLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 95.000000000000000000
+          SourceRect.Top = 197.000000000000000000
+          SourceRect.Right = 143.000000000000000000
+          SourceRect.Bottom = 245.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 137.000000000000000000
+          SourceRect.Top = 298.000000000000000000
+          SourceRect.Right = 209.000000000000000000
+          SourceRect.Bottom = 370.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 184.000000000000000000
+          SourceRect.Top = 390.000000000000000000
+          SourceRect.Right = 280.000000000000000000
+          SourceRect.Bottom = 486.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 277.000000000000000000
+          SourceRect.Top = 585.000000000000000000
+          SourceRect.Right = 421.000000000000000000
+          SourceRect.Bottom = 729.000000000000000000
+        end>
+      PressedLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 275.000000000000000000
+          SourceRect.Top = 198.000000000000000000
+          SourceRect.Right = 335.000000000000000000
+          SourceRect.Bottom = 246.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 425.000000000000000000
+          SourceRect.Top = 297.000000000000000000
+          SourceRect.Right = 515.000000000000000000
+          SourceRect.Bottom = 369.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 528.000000000000000000
+          SourceRect.Top = 386.000000000000000000
+          SourceRect.Right = 648.000000000000000000
+          SourceRect.Bottom = 482.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 823.000000000000000000
+          SourceRect.Top = 590.000000000000000000
+          SourceRect.Right = 1003.000000000000000000
+          SourceRect.Bottom = 734.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+    end
+    object TGlyph
+      StyleName = 'glyphstyle'
+      Align = Client
+      Size.Width = 32.000000000000000000
+      Size.Height = 16.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object TButtonStyleTextObject
+      StyleName = 'text'
+      Align = Bottom
+      Locked = True
+      Position.Y = 27.000000000000000000
+      Size.Width = 72.000000000000000000
+      Size.Height = 21.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 14.000000000000000000
+      TextSettings.FontColor = xFF222222
+      ShadowVisible = False
+      HotColor = xFF222222
+      FocusedColor = claBlack
+      NormalColor = xFF222222
+      PressedColor = xFF222222
+    end
+  end
+  object TLayout
+    StyleName = 'ListBoxItemArtStyle'
+    Align = Center
+    Size.Width = 426.000000000000000000
+    Size.Height = 72.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 5
+    object TStyleObject
+      StyleName = 'background'
+      Align = Contents
+      SourceLookup = 'FondoBlanco.jpg'
+      Size.Width = 426.000000000000000000
+      Size.Height = 72.000000000000000000
+      Size.PlatformDefault = False
+      SourceLink = <
+        item
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 32.000000000000000000
+        end>
+    end
+    object TStyleObject
+      StyleName = 'StyleObject1Style'
+      Align = Client
+      Size.Width = 364.000000000000000000
+      Size.Height = 72.000000000000000000
+      Size.PlatformDefault = False
+      SourceLink = <>
+      object TStyleObject
+        StyleName = 'StyleObject1Style'
+        Align = Top
+        Margins.Left = 1.000000000000000000
+        Margins.Top = 1.000000000000000000
+        Position.X = 1.000000000000000000
+        Position.Y = 26.000000000000000000
+        Size.Width = 363.000000000000000000
+        Size.Height = 22.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <>
+        object TActiveStyleTextObject
+          StyleName = 'pedido_neb'
+          Align = Left
+          AutoSize = True
+          Size.Width = 112.243812561035200000
+          Size.Height = 18.621093750000000000
+          Size.PlatformDefault = False
+          Text = 'P. Interno: XXXXX'
+          TextSettings.Font.Size = 14.000000000000000000
+          TextSettings.FontColor = xFF222222
+          TextSettings.WordWrap = False
+          TextSettings.HorzAlign = Leading
+          ShadowVisible = False
+          ActiveTrigger = Selected
+          ActiveColor = xFF222222
+        end
+        object TActiveStyleTextObject
+          StyleName = 'pedido_cli'
+          Align = Client
+          AutoSize = True
+          Margins.Left = 1.000000000000000000
+          Size.Width = 87.812171936035160000
+          Size.Height = 18.621093750000000000
+          Size.PlatformDefault = False
+          Text = 'P.Cliente: 510'
+          TextSettings.Font.Size = 14.000000000000000000
+          TextSettings.WordWrap = False
+          TextSettings.HorzAlign = Leading
+          ShadowVisible = False
+          ActiveTrigger = Selected
+          ActiveColor = claBlack
+        end
+        object TActiveStyleTextObject
+          StyleName = 'oferta'
+          Align = Left
+          AutoSize = True
+          Margins.Left = 1.000000000000000000
+          Position.X = 113.243812561035200000
+          Size.Width = 116.502601623535200000
+          Size.Height = 18.621093750000000000
+          Size.PlatformDefault = False
+          Text = 'Oferta: 2020-2500'
+          TextSettings.Font.Size = 14.000000000000000000
+          TextSettings.WordWrap = False
+          TextSettings.HorzAlign = Leading
+          ShadowVisible = False
+          ActiveTrigger = Selected
+          ActiveColor = claBlack
+        end
+      end
+      object TStyleObject
+        StyleName = 'StyleObject3Style'
+        Align = Top
+        Size.Width = 364.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <>
+        object TActiveStyleTextObject
+          StyleName = 'cliente'
+          Align = Left
+          Size.Width = 364.000000000000000000
+          Size.Height = 25.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'Cli: TRANSFORMETAL BIERZO'
+          TextSettings.Font.Size = 14.000000000000000000
+          TextSettings.Trimming = Character
+          TextSettings.WordWrap = False
+          TextSettings.HorzAlign = Leading
+          ShadowVisible = False
+          ActiveTrigger = Selected
+          ActiveColor = claBlack
+        end
+        object TActiveStyleTextObject
+          StyleName = 'entrada'
+          Align = Right
+          AutoSize = True
+          Position.X = 288.048187255859400000
+          Size.Width = 75.951820373535160000
+          Size.Height = 18.621093750000000000
+          Size.PlatformDefault = False
+          Text = '24/05/2020'
+          TextSettings.Font.Size = 14.000000000000000000
+          TextSettings.WordWrap = False
+          ShadowVisible = False
+          ActiveTrigger = Selected
+          ActiveColor = claBlack
+        end
+        object TActiveStyleTextObject
+          StyleName = 'reposicion'
+          Align = Right
+          AutoSize = True
+          Position.X = 216.817718505859400000
+          Size.Width = 71.230468750000000000
+          Size.Height = 15.960937500000000000
+          Size.PlatformDefault = False
+          Text = 'REPOSICION'
+          TextSettings.WordWrap = False
+          ShadowVisible = False
+          ActiveTrigger = MouseOver
+          ActiveColor = claBlack
+        end
+      end
+    end
+    object TSpeedButton
+      StyleName = 'btn_info'
+      Align = Right
+      Images = Form1.ImageList1
+      ImageIndex = 10
+      Position.X = 364.000000000000000000
+      Size.Width = 62.000000000000000000
+      Size.Height = 72.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'SpeedButtonImagestyle'
+    end
+    object TActiveStyleObject
+      StyleName = 'ActiveStyleObject1Style'
+      Align = Client
+      SourceLookup = 'Seleccion2.png'
+      Size.Width = 364.000000000000000000
+      Size.Height = 72.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 32.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 33.000000000000000000
+          SourceRect.Top = 33.000000000000000000
+          SourceRect.Right = 64.000000000000000000
+          SourceRect.Bottom = 64.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+  end
+  object TLayout
+    StyleName = 'ListBoxItemBotonStyle'
+    Align = Center
+    Size.Width = 455.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 6
+    object TStyleObject
+      StyleName = 'background'
+      Align = Contents
+      SourceLookup = 'FondoItem.jpg'
+      Size.Width = 455.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      SourceLink = <
+        item
+          SourceRect.Right = 300.000000000000000000
+          SourceRect.Bottom = 72.000000000000000000
+        end>
+    end
+    object TActiveStyleTextObject
+      StyleName = 'text'
+      Align = Client
+      Size.Width = 455.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 18.000000000000000000
+      TextSettings.FontColor = xFF222222
+      TextSettings.WordWrap = False
+      ShadowVisible = False
+      ActiveTrigger = Selected
+      ActiveColor = xFF222222
+    end
+  end
+  object TLayout
+    StyleName = 'listboxplainheader'
+    Align = Center
+    Size.Width = 455.000000000000000000
+    Size.Height = 30.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 7
+    FixedHeight = 30
+    object TStyleObject
+      StyleName = 'background'
+      Align = Contents
+      SourceLookup = 'header.png'
+      Size.Width = 455.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 32.000000000000000000
+        end
+        item
+          CapInsets.Left = 5.000000000000000000
+          CapInsets.Right = 5.000000000000000000
+          Scale = 1.500000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          Scale = 2.000000000000000000
+        end
+        item
+          CapInsets.Left = 5.000000000000000000
+          CapInsets.Right = 5.000000000000000000
+          Scale = 3.000000000000000000
+        end>
+      Opaque = True
+    end
+    object TLayout
+      StyleName = 'area'
+      Align = Client
+      Size.Width = 455.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      object TStyleTextObject
+        StyleName = 'text'
+        Align = Client
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 2.000000000000000000
+        Margins.Right = 2.000000000000000000
+        Margins.Bottom = 2.000000000000000000
+        Size.Width = 443.000000000000000000
+        Size.Height = 26.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claRed
+        TextSettings.Trimming = Character
+        TextSettings.WordWrap = False
+        TextSettings.HorzAlign = Leading
+        ShadowVisible = False
+      end
+    end
+  end
+  object TLayout
+    StyleName = 'SpeedButtonImagestyle'
+    Align = Center
+    Size.Width = 336.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 8
+    FixedHeight = 48
+    object TButtonStyleObject
+      StyleName = 'background'
+      Align = Contents
+      Margins.Left = -5.000000000000000000
+      Margins.Right = -5.000000000000000000
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 346.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      HotLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 95.000000000000000000
+          SourceRect.Top = 197.000000000000000000
+          SourceRect.Right = 143.000000000000000000
+          SourceRect.Bottom = 245.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 137.000000000000000000
+          SourceRect.Top = 298.000000000000000000
+          SourceRect.Right = 209.000000000000000000
+          SourceRect.Bottom = 370.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 184.000000000000000000
+          SourceRect.Top = 390.000000000000000000
+          SourceRect.Right = 280.000000000000000000
+          SourceRect.Bottom = 486.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 276.000000000000000000
+          SourceRect.Top = 585.000000000000000000
+          SourceRect.Right = 420.000000000000000000
+          SourceRect.Bottom = 729.000000000000000000
+        end>
+      FocusedLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 95.000000000000000000
+          SourceRect.Top = 197.000000000000000000
+          SourceRect.Right = 143.000000000000000000
+          SourceRect.Bottom = 245.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 137.000000000000000000
+          SourceRect.Top = 298.000000000000000000
+          SourceRect.Right = 209.000000000000000000
+          SourceRect.Bottom = 370.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 184.000000000000000000
+          SourceRect.Top = 390.000000000000000000
+          SourceRect.Right = 280.000000000000000000
+          SourceRect.Bottom = 486.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 277.000000000000000000
+          SourceRect.Top = 585.000000000000000000
+          SourceRect.Right = 421.000000000000000000
+          SourceRect.Bottom = 729.000000000000000000
+        end>
+      NormalLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 95.000000000000000000
+          SourceRect.Top = 197.000000000000000000
+          SourceRect.Right = 143.000000000000000000
+          SourceRect.Bottom = 245.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 137.000000000000000000
+          SourceRect.Top = 298.000000000000000000
+          SourceRect.Right = 209.000000000000000000
+          SourceRect.Bottom = 370.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 184.000000000000000000
+          SourceRect.Top = 390.000000000000000000
+          SourceRect.Right = 280.000000000000000000
+          SourceRect.Bottom = 486.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 277.000000000000000000
+          SourceRect.Top = 585.000000000000000000
+          SourceRect.Right = 421.000000000000000000
+          SourceRect.Bottom = 729.000000000000000000
+        end>
+      PressedLink = <
+        item
+          CapInsets.Left = 16.000000000000000000
+          CapInsets.Right = 16.000000000000000000
+          SourceRect.Left = 275.000000000000000000
+          SourceRect.Top = 198.000000000000000000
+          SourceRect.Right = 335.000000000000000000
+          SourceRect.Bottom = 246.000000000000000000
+        end
+        item
+          CapInsets.Left = 24.000000000000000000
+          CapInsets.Right = 24.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 425.000000000000000000
+          SourceRect.Top = 297.000000000000000000
+          SourceRect.Right = 515.000000000000000000
+          SourceRect.Bottom = 369.000000000000000000
+        end
+        item
+          CapInsets.Left = 32.000000000000000000
+          CapInsets.Right = 32.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 528.000000000000000000
+          SourceRect.Top = 386.000000000000000000
+          SourceRect.Right = 648.000000000000000000
+          SourceRect.Bottom = 482.000000000000000000
+        end
+        item
+          CapInsets.Left = 48.000000000000000000
+          CapInsets.Right = 48.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 823.000000000000000000
+          SourceRect.Top = 590.000000000000000000
+          SourceRect.Right = 1003.000000000000000000
+          SourceRect.Bottom = 734.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+    end
+    object TGlyph
+      StyleName = 'glyphstyle'
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 2.000000000000000000
+      Margins.Right = 1.000000000000000000
+      Margins.Bottom = 2.000000000000000000
+      Align = Client
+      Size.Width = 48.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object TLayout
+    StyleName = 'RadioButtonSinTextstyle'
+    Align = Center
+    Size.Width = 34.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 9
+    object TLayout
+      StyleName = 'Layout'
+      Align = Client
+      Size.Width = 34.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object TCheckStyleObject
+        StyleName = 'background'
+        Align = Client
+        Locked = True
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Size.Width = 34.000000000000000000
+        Size.Height = 22.000000000000000000
+        Size.PlatformDefault = False
+        WrapMode = Center
+        ActiveTrigger = Checked
+        ActiveLink = <
+          item
+            SourceRect.Left = 174.000000000000000000
+            SourceRect.Top = 70.000000000000000000
+            SourceRect.Right = 196.000000000000000000
+            SourceRect.Bottom = 92.000000000000000000
+          end
+          item
+            Scale = 1.500000000000000000
+            SourceRect.Left = 284.000000000000000000
+            SourceRect.Top = 104.000000000000000000
+            SourceRect.Right = 317.000000000000000000
+            SourceRect.Bottom = 137.000000000000000000
+          end
+          item
+            Scale = 2.000000000000000000
+            SourceRect.Left = 342.000000000000000000
+            SourceRect.Top = 136.000000000000000000
+            SourceRect.Right = 386.000000000000000000
+            SourceRect.Bottom = 180.000000000000000000
+          end
+          item
+            Scale = 3.000000000000000000
+            SourceRect.Left = 595.000000000000000000
+            SourceRect.Top = 211.000000000000000000
+            SourceRect.Right = 661.000000000000000000
+            SourceRect.Bottom = 277.000000000000000000
+          end>
+        SourceLink = <
+          item
+            SourceRect.Left = 174.000000000000000000
+            SourceRect.Top = 46.000000000000000000
+            SourceRect.Right = 196.000000000000000000
+            SourceRect.Bottom = 68.000000000000000000
+          end
+          item
+            Scale = 1.500000000000000000
+            SourceRect.Left = 284.000000000000000000
+            SourceRect.Top = 64.000000000000000000
+            SourceRect.Right = 317.000000000000000000
+            SourceRect.Bottom = 97.000000000000000000
+          end
+          item
+            Scale = 2.000000000000000000
+            SourceRect.Left = 342.000000000000000000
+            SourceRect.Top = 83.000000000000000000
+            SourceRect.Right = 386.000000000000000000
+            SourceRect.Bottom = 127.000000000000000000
+          end
+          item
+            Scale = 3.000000000000000000
+            SourceRect.Left = 596.000000000000000000
+            SourceRect.Top = 132.000000000000000000
+            SourceRect.Right = 662.000000000000000000
+            SourceRect.Bottom = 198.000000000000000000
+          end>
+        HotLink = <
+          item
+            SourceRect.Left = 174.000000000000000000
+            SourceRect.Top = 46.000000000000000000
+            SourceRect.Right = 196.000000000000000000
+            SourceRect.Bottom = 68.000000000000000000
+          end
+          item
+            Scale = 1.500000000000000000
+            SourceRect.Left = 284.000000000000000000
+            SourceRect.Top = 64.000000000000000000
+            SourceRect.Right = 317.000000000000000000
+            SourceRect.Bottom = 97.000000000000000000
+          end
+          item
+            Scale = 2.000000000000000000
+            SourceRect.Left = 342.000000000000000000
+            SourceRect.Top = 83.000000000000000000
+            SourceRect.Right = 386.000000000000000000
+            SourceRect.Bottom = 127.000000000000000000
+          end
+          item
+            Scale = 3.000000000000000000
+            SourceRect.Left = 596.000000000000000000
+            SourceRect.Top = 132.000000000000000000
+            SourceRect.Right = 662.000000000000000000
+            SourceRect.Bottom = 198.000000000000000000
+          end>
+        ActiveHotLink = <
+          item
+            SourceRect.Left = 174.000000000000000000
+            SourceRect.Top = 70.000000000000000000
+            SourceRect.Right = 196.000000000000000000
+            SourceRect.Bottom = 92.000000000000000000
+          end
+          item
+            Scale = 1.500000000000000000
+            SourceRect.Left = 284.000000000000000000
+            SourceRect.Top = 104.000000000000000000
+            SourceRect.Right = 317.000000000000000000
+            SourceRect.Bottom = 137.000000000000000000
+          end
+          item
+            Scale = 2.000000000000000000
+            SourceRect.Left = 344.000000000000000000
+            SourceRect.Top = 138.000000000000000000
+            SourceRect.Right = 384.000000000000000000
+            SourceRect.Bottom = 178.000000000000000000
+          end
+          item
+            Scale = 3.000000000000000000
+            SourceRect.Left = 595.000000000000000000
+            SourceRect.Top = 211.000000000000000000
+            SourceRect.Right = 661.000000000000000000
+            SourceRect.Bottom = 277.000000000000000000
+          end>
+        FocusedLink = <
+          item
+            SourceRect.Left = 174.000000000000000000
+            SourceRect.Top = 46.000000000000000000
+            SourceRect.Right = 196.000000000000000000
+            SourceRect.Bottom = 68.000000000000000000
+          end
+          item
+            Scale = 1.500000000000000000
+            SourceRect.Left = 284.000000000000000000
+            SourceRect.Top = 64.000000000000000000
+            SourceRect.Right = 317.000000000000000000
+            SourceRect.Bottom = 97.000000000000000000
+          end
+          item
+            Scale = 2.000000000000000000
+            SourceRect.Left = 342.000000000000000000
+            SourceRect.Top = 83.000000000000000000
+            SourceRect.Right = 386.000000000000000000
+            SourceRect.Bottom = 127.000000000000000000
+          end
+          item
+            Scale = 3.000000000000000000
+            SourceRect.Left = 596.000000000000000000
+            SourceRect.Top = 132.000000000000000000
+            SourceRect.Right = 662.000000000000000000
+            SourceRect.Bottom = 198.000000000000000000
+          end>
+        ActiveFocusedLink = <
+          item
+            SourceRect.Left = 174.000000000000000000
+            SourceRect.Top = 70.000000000000000000
+            SourceRect.Right = 196.000000000000000000
+            SourceRect.Bottom = 92.000000000000000000
+          end
+          item
+            Scale = 1.500000000000000000
+            SourceRect.Left = 284.000000000000000000
+            SourceRect.Top = 104.000000000000000000
+            SourceRect.Right = 317.000000000000000000
+            SourceRect.Bottom = 137.000000000000000000
+          end
+          item
+            Scale = 2.000000000000000000
+            SourceRect.Left = 342.000000000000000000
+            SourceRect.Top = 136.000000000000000000
+            SourceRect.Right = 386.000000000000000000
+            SourceRect.Bottom = 180.000000000000000000
+          end
+          item
+            Scale = 3.000000000000000000
+            SourceRect.Left = 595.000000000000000000
+            SourceRect.Top = 211.000000000000000000
+            SourceRect.Right = 661.000000000000000000
+            SourceRect.Bottom = 277.000000000000000000
+          end>
+      end
+    end
+  end
+end

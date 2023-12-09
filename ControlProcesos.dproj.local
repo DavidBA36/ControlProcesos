@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/07 19:50:57.000.857,=D:\Programacion\Unit1.pas</Transaction>
+    <Transaction>2020/07/07 19:54:39.000.701,D:\Programacion\Unit1.pas=D:\Programacion\WindowsApp\ControlProcesosFMX\uPrincipal.pas</Transaction>
+    <Transaction>2020/07/07 19:54:39.000.701,D:\Programacion\Unit1.fmx=D:\Programacion\WindowsApp\ControlProcesosFMX\uPrincipal.fmx</Transaction>
+    <Transaction>2020/07/07 19:54:48.000.342,D:\Programacion\Project1.dproj=D:\Programacion\WindowsApp\ControlProcesosFMX\ControlProcesos.dproj</Transaction>
+    <Transaction>2020/07/07 20:44:22.000.483,=D:\ComponentesDelphi\UserControl FMX\Source\LoginWindow_U.pas</Transaction>
+    <Transaction>2020/07/07 20:45:32.000.249,=D:\Programacion\WindowsApp\ControlProcesosFMX\Unit2.pas</Transaction>
+    <Transaction>2020/07/07 21:01:31.000.155,D:\ComponentesDelphi\UserControl FMX\Source\LoginWindow_U.pas=</Transaction>
+    <Transaction>2020/07/09 23:18:08.000.124,=D:\Programacion\WindowsApp\ControlProcesosFMX\Unit1.pas</Transaction>
+    <Transaction>2020/07/09 23:18:31.000.030,D:\Programacion\WindowsApp\ControlProcesosFMX\Unit1.pas=D:\Programacion\WindowsApp\ControlProcesosFMX\udatos.pas</Transaction>
+    <Transaction>2020/07/09 23:18:31.000.030,D:\Programacion\WindowsApp\ControlProcesosFMX\Unit1.dfm=D:\Programacion\WindowsApp\ControlProcesosFMX\udatos.dfm</Transaction>
+    <Transaction>2020/07/12 16:38:30.000.827,D:\Programacion\WindowsApp\ControlProcesosFMX\uFiltroAvanzado.fmx=D:\Programacion\WindowsApp\ControlProcesosFMX\Unit2.fmx</Transaction>
+    <Transaction>2020/07/12 16:38:30.000.827,D:\Programacion\WindowsApp\ControlProcesosFMX\uFiltroAvanzado.pas=D:\Programacion\WindowsApp\ControlProcesosFMX\Unit2.pas</Transaction>
+    <Transaction>2020/07/14 22:20:06.000.630,=D:\Programacion\WindowsApp\ControlProcesosFMX\Unit3.pas</Transaction>
+    <Transaction>2020/07/14 22:21:52.000.787,D:\Programacion\WindowsApp\ControlProcesosFMX\Unit3.fmx=D:\Programacion\WindowsApp\ControlProcesosFMX\uSelectorColumnas.fmx</Transaction>
+    <Transaction>2020/07/14 22:21:52.000.787,D:\Programacion\WindowsApp\ControlProcesosFMX\Unit3.pas=D:\Programacion\WindowsApp\ControlProcesosFMX\uSelectorColumnas.pas</Transaction>
+    <Transaction>2020/10/31 18:21:35.000.576,=D:\PROGRAMACION\ComponentesDelphi\FastMM4\FastMM4.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
